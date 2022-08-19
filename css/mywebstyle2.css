@@ -1,0 +1,23 @@
+/*
+Program: Custom Web Fonts
+Date: 10/August/2022
+Author: Oladipupo Bunmi David
+
+*/
+/* Custom font definition*/
+@font-face {
+	font-family: "MyRubik";
+	src: url('../font/rubik/rubik-black-webfont.woff2');
+	src: url('../font/rubik/rubik-bold-webfont.ttf');
+}
+@font-face{
+	font-family: "karla";
+	src: url("../font/karla/karla-regular-webfont.woff")
+}
+/*using web fonts*/
+h1,h2,h3,h4,h5,h6{
+	font-family: MyRubik, serif;
+}
+p{
+	font-family: karla, sans-serif;
+}

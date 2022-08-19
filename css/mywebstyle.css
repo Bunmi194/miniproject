@@ -1,0 +1,12 @@
+/*
+Program: Custom Web Fonts
+Date: 10/August/2022
+Author: Oladipupo Bunmi David
+
+*/
+h1,h2,h3,h4,h5,h6{
+	font-family: 'BioRyhme', serif;
+}
+P{
+	font-family: 'Padauk', sans-serif;
+}

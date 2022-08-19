@@ -1,0 +1,24 @@
+#academy{
+	border: 10px solid silver;
+	height: 100px;
+	width: 100px;
+	background-color: #f00;
+	border-radius: 50%;
+}
+.camp{
+	border: 10px solid silver;
+	height: 100px;
+	width: 100px;
+	background-color: yellow;
+	border-radius: 50%;
+}
+#boot{
+	border: 10px solid silver;
+	height: 100px;
+	width: 100px;
+	background-color: green;
+	border-radius: 50%;
+}
+div{
+	margin: 20px;
+}
