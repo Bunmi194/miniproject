@@ -1,0 +1,576 @@
+/*CSS file for personal profile*/
+div{
+	border: 0px solid red;
+	min-height: 50px;
+}
+.chaticon{
+	position: fixed;
+	bottom: 30px;
+	right: 10px;
+	z-index: 10;
+}
+.wrapper{
+	width: 100%;
+}
+.banner, .profile, .samples{
+	display: flex;
+	justify-content: space-around;
+}
+.nav{
+	position: fixed;
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	background-color: #000;
+	color: #fff;
+	z-index: 5;
+	top: 0;
+	border-bottom: 2px solid yellow;
+	height: 85px;
+}
+.banner{
+	margin-top: 80px;
+	color: #fff;
+	background-color: #000;
+}
+.us{
+	border: 1px solid #fff;
+	margin: 25px 3px;
+}
+ul li{
+	display: inline-block;
+	margin: 0px 20px;
+	padding: 10px 10px;
+}
+.but{
+	padding: 10px;
+	background-color: yellow;
+}
+.hom{
+	color: #fff;
+}
+a{
+	text-decoration: none;
+	color: #000;
+}
+.logo, .image{
+	width: 30%;
+}
+.logo{
+	padding: 0px 30px;
+	display: flex;
+}
+.write-up{
+	width: 60%;
+	padding: 30px;
+}
+.topnav{
+	width: 70%;
+	
+}
+.tp{
+	display: inline-block;
+	margin: 0px 10px;
+	padding: ;
+	position: relative;
+	top: -24px;
+}
+#pol{
+	color: yellow;
+}
+iframe{
+	border: 4px solid yellow;
+}
+#unless{
+	padding-top: 10px !important;
+}
+.tpbtn{
+	padding: 10px;
+	background-color: navy;
+	color: #fff;
+}
+.topper{
+	border: 1px solid black;
+	width: 60%;
+	padding: 40px;
+	margin-top: -40px;
+	border-radius: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+	background-color: #fff;
+	height: 60px;
+}
+.projectimg{
+	margin-top: 30px; 
+	margin-left: 0px;
+}
+.deli{
+	float: left; 
+	margin-top: -10px;
+}
+.width3{
+	width: 30%;
+}
+#ft1{
+	height:; 
+	background-color: #000; 
+}
+#ft2{
+	 height: ;
+	 width: 25%;
+}
+#ft3{
+	color: grey;
+	padding-top: 20px;
+}
+#ft4{
+	height: ;
+	width: 25%; 
+	padding: 50px;
+}
+#ft5{
+	display: flex; 
+	justify-content: space-between; 
+	background-color: #080005 ;
+}
+#ft6{
+	height: ;
+	background-color: #080005;
+}
+.ft7{
+	margin-left: 20px; 
+	margin-top: 0px; 
+	color: grey; 
+	padding-top: 0px; 
+	padding-bottom: 10px;
+}
+.ft71{
+	display: none;
+}
+#ft8{
+	padding-top: 20px;
+}
+#foot3{
+	background-color: ; 
+	height: 10px; 
+	margin-left: 20px;
+}
+#unless{
+	color: silver; 
+	color: grey; 
+	font-size: 12px;
+}
+#ft9{
+	background-color: #E5E4E2; 
+	height: 60px;
+}
+.bold{
+	font-size: 40px;
+}
+.bold2{
+	font-size: 20px;
+}
+.profilepic{
+	width: 30%;
+}
+.profiletext{
+	width: 60%;
+	border: 5px solid #000;
+	background-color: yellow;
+}
+.profile{
+	background-color: #F2F4F4;
+}
+.figure-child{
+	box-shadow: 2px 5px yellow;
+	border: 2px solid black;
+	margin: 10px;
+}
+.projectbg{
+	background-color: #F2F4F4;
+	margin: 30px 0px;
+}
+.faqs{
+	background-color: #F2F4F4;
+}
+.button{
+	padding: 15px;
+	margin-top: 30px;
+	background-color: yellow;
+}
+.aboutme{
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 8%;
+	font-size: 20px;
+}
+.contact{
+	display: flex;
+	justify-content: space-around;
+	margin: 50px 0px;
+	background-color: #000;
+	color: #fff;
+}
+#contactus3{
+	width: 40%;
+	text-align: center;
+	padding: 20px;
+}
+#contactusq{
+	width: 20%;
+}
+#contactus{
+	width: 50%;
+}
+.figures{
+	text-align: center;
+	display: flex;
+	padding: 30px;
+}
+.figure-child{
+	padding: 20px;
+}
+.img{
+	width: 100%;
+}
+.input{
+	height: 40px;
+	width: 65%;
+	margin: 10px 20px;
+}
+#input{
+	height: 40px;
+	width: 65%;
+	margin: 10px 20px;
+	background-color: yellow;
+}
+#gender{
+	height: 40px;
+	width: 65%;
+	margin: 10px 20px;
+}
+.faqs{
+	margin: 30px 0px;
+}
+#faq{
+	padding: 20px;
+}
+#foot3{
+	height: 10px !important;
+}
+.yellow{
+	color: yellow;
+}
+.caption{
+	color: red;
+	font-size: 20px;
+	font-weight: 900;
+}
+.new{
+	color: yellow !important;
+}
+.samples{
+	background-color: #F2F4F4;
+}
+.hrr{
+	background-color: red;
+}
+.ctext{
+	margin: 0px 0px 10px;
+}
+.wrapsamples{
+	padding: 50px;
+	background-color: #F2F4F4;
+}
+.foot{
+	 display: flex; 
+	 justify-content: space-around; 
+	 margin-left: 0px;
+	 padding-left: 10px;
+}
+#em2{
+	margin-left: 80px;
+	margin-top: 0px;
+	margin-right: 50px;
+}
+#em1{
+	float: left; 
+	margin-left: 40px; 
+	margin-top: 20px;
+}
+.full{
+	width: 25%; 
+	color: white; 
+	text-align: left;
+}
+.full2{
+	width: 25%; 
+	color: grey; 
+	text-align: center;
+}
+.tc{
+	text-decoration: none;
+	color: grey;
+}
+/*media queries start here*/
+@media screen and (min-width: 200px) and (max-width: 570px){
+	ul li{
+		margin: 0px;
+		font-size: 12px;
+	}	
+	.ft71{
+	margin-left: 0px; 
+	margin-top: 0px; 
+	color: grey; 
+	padding-top: 0px; 
+	padding-bottom: 10px;
+}
+	.ft7{
+	display: none;
+	}
+	.figure-child{
+		box-shadow: 0px 0px #fff;
+		border: 2px solid #fff;
+		margin: 0px;
+	}	
+	box-shadow: 2px 5px yellow;
+	.verticalrule{
+		font-size: 22px;
+	}
+	.logo{
+		width: 10%;
+		padding-top: 10px;
+	}
+	.bo{
+		margin: 0px !important;
+	}
+	#unless{
+	padding-top: 0px !important;
+	}
+	#ft5, #ft6, #ft7{
+		padding-top: 0px !important;
+	}
+	.topnav{
+		width: 80%;
+	}
+	.flags{
+		display: none;
+	}
+	.figures{
+		display: block;
+	}
+	.contact{
+		display: block;
+	}
+	#contactus{
+		display: none;
+	}
+	#contactus3{
+		width: 100%;
+	}
+	#nam{
+		font-size: 22px;
+	}
+	#bun, #ola{
+		font-size: 10px;
+	}
+	.disappear{
+		display: none;
+	}
+	.but{
+		margin-left: -20px;
+	}
+	#pfolio{
+		margin-left: 0px;
+	}
+	.image{
+		display: none;
+	}
+	.bold{
+		font-size: 16px;
+	}
+	.write-up{
+		width: 100%;
+	}
+	.topper{
+		display: none;
+	}
+	.profile{
+		display: block;
+	}
+	.profilepic, .profiletext{
+		width: 100%;
+	}
+	.followme, .iframe{
+		display: none;
+	}
+	.foot{
+		display: block;
+		width: 100%;
+		margin: 0px;
+	}
+	.full{
+		width: 100%;
+	}
+	.full2{
+		width: 100%;
+	}
+	.goup{
+		display: none;
+	}
+	.close{
+		text-align: center;
+	}
+	#foot3{
+		text-align: center;
+	}
+	.figure-child{
+	padding: 0px;
+	}
+	.figures{
+	text-align: center;
+	display: inline-block;
+	padding: 0px;
+	height: inherit;
+	margin: 30px 0px;
+	}
+	.email{
+		margin: 0px;
+	}
+	#em2{
+		margin-left: 30px;
+		padding-bottom: 10px;
+	}
+	#em1{
+		margin-left: -10px;
+	}
+	.chaticon{
+		display: none;
+	}
+}
+@media screen and (min-width: 575px) and (max-width: 900px){
+	ul li{
+		margin: 10px;
+		font-size: 14px;
+	}
+	.flags{
+		display: none;
+	}
+	.bold{
+		font-size: 24px;
+	}
+	.ft71{
+	margin-left: 0px; 
+	margin-top: 0px; 
+	color: grey; 
+	padding-top: 0px; 
+	padding-bottom: 10px;
+	}
+	.ft7{
+	display: none;
+	}
+	.bold2{
+		font-size: 16px;
+	}
+	.image{
+		padding-top: 20px;
+	}
+	.tp{
+		margin: 0px;
+		padding: 0px;
+	}
+	.tpbtn{
+		padding: 5px;
+	}
+	.slash{
+		display: none;
+	}
+	.aboutme{
+		font-size: 14px;
+	}
+	#contactus{
+		width: 50%;
+	}
+	#contactus3{
+		width: 50%;
+	}
+	.ctext{
+		font-size: 18px;
+	}
+	.input{
+		height: 30px;
+		margin: 5px;
+	}
+	#input{
+		height: 30px;
+		margin: 5px;
+	}
+	#gender{
+		height: 30px;
+		margin: 5px;
+	}
+	#policy{
+		font-size: 10px;
+	}
+	.goup{
+		display: none;
+	}
+	.iframe{
+		display: none;
+	}
+	.foot{
+		margin: 0px;
+		display: flex;
+		justify-content: space-between;
+	}
+	.full, .full2{
+		width: 40%;
+	}
+	.full{
+		padding-left: 20px;
+	}
+	#em2{
+		margin-left: 70px;
+	}
+	.foot3, #unless{
+		margin: 0px;
+		padding: 0px;
+		width: 100%;
+	}
+	.chaticon{
+		display: none;
+	}
+}
+/*MEdia queries end here*/
+/*hover effect starts here*/
+.hom:hover{
+	text-decoration: underline;
+	color: white !important;
+}
+.app:hover{
+	text-decoration: underline;
+	color: #000 !important;	
+}
+#pol:hover{
+	text-decoration: underline;	
+}
+.tc:hover{
+	text-decoration: underline;
+	color: #fff !important;
+}
+.but:hover{
+	background-color: #E1BF24 ;
+}
+.but2:hover{
+	color: #000;
+}
+#input:hover{
+	background-color: #E1BF24;	
+}
+.us:hover{
+	padding: 5px;
+}
+.chaticon:hover{
+	padding: 5px;
+}
